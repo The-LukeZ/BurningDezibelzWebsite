@@ -1,6 +1,6 @@
-# Burnig Dezibelz
+# Burning Dezibelz
 
-A German Rock and Metal band which I'm a part of.
+A German Rock and Metal band which [I](https://github.com/The-LukeZ)'m a part of.
 
 Since we had to web-presence I decided to make a website for us and here it is.
 
