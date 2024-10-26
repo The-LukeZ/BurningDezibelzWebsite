@@ -1,0 +1,54 @@
+[
+    {
+        "_id": "123567890",
+        "name": "Concert 1",
+        "date": "2024-11-01T00:00:00.000Z",
+        "location": {
+            "address": "Konzertstraße 1",
+            "city": "Konzertstadt",
+            "postalCode": "12345",
+            "country": "Deutschland",
+            "county": "Konzertland"
+        },
+        "ticketsUrl": "https://example.com/tickets"
+    },
+    {
+        "_id": "123567891",
+        "name": "Concert 2",
+        "date": "2024-10-02T00:00:00.000Z",
+        "location": {
+            "address": "Konzertstraße 2",
+            "city": "Andere Konzertstadt",
+            "postalCode": "98765",
+            "country": "Deutschland",
+            "county": "Konzertland2"
+        },
+        "abendkasse": true
+    },
+    {
+        "_id": "123567892",
+        "name": "Concert 3",
+        "date": "2024-09-03T00:00:00.000Z",
+        "location": {
+            "address": "Konzertstraße 3",
+            "city": "Dritte Konzertstadt",
+            "postalCode": "54321",
+            "country": "Deutschland",
+            "county": "Konzertland3"
+        }
+    },
+    {
+        "_id": "123567893",
+        "name": "Concert 4",
+        "date": "2024-08-04T00:00:00.000Z",
+        "location": {
+            "address": "Konzertstraße 4",
+            "city": "Vierte Konzertstadt",
+            "postalCode": "13579",
+            "country": "Deutschland",
+            "county": "Konzertland4"
+        },
+        "ticketsUrl": "https://example.com/tickets",
+        "abendkasse": true
+    }
+]
