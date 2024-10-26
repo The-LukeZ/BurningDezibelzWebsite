@@ -2,7 +2,7 @@
 
 A German Rock and Metal band which [I](https://github.com/The-LukeZ)'m a part of.
 
-Since we had to web-presence I decided to make a website for us and here it is.
+Since we had no web-presence I decided to make a website for us and here it is.
 
 Using [Svelte 5](https://svelte.dev/blog/svelte-5-is-alive) with [Tailwind](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
 
