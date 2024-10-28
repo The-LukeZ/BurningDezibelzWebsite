@@ -8,8 +8,8 @@ const config = {
     kit: {
         adapter: CFAdapter({
             routes: {
-                include: ["/src/routes/**/*"],
-                exclude: ["<all>"],
+                include: ["/*"],
+                exclude: ["<build>", "<files>"],
             },
             fallback: "plaintext",
         }),
