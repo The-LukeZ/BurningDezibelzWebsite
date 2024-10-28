@@ -9,7 +9,7 @@ const config = {
         adapter: CFAdapter({
             routes: {
                 include: ["/*"],
-                exclude: ["<build>", "<files>"],
+                exclude: ["<build>"],
             },
             fallback: "plaintext",
         }),
