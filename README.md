@@ -1,38 +1,14 @@
-# create-svelte
+# Burning Dezibelz
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+A German Rock and Metal band which [I](https://github.com/The-LukeZ)'m a part of.
 
-## Creating a project
+Since we had no web-presence I decided to make a website for us and here it is.
 
-If you're seeing this, you've probably already done this step. Congrats!
+Using [Svelte 5](https://svelte.dev/blog/svelte-5-is-alive) with [Tailwind](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
 
-```bash
-# create a new project in the current directory
-npx sv create
+It's primarily a private project but there's no explicit reason to make it a private repo.
 
-# create a new project in my-app
-npx sv create my-app
-```
+If you want to contribute, feel free to do so - but you don't have to.
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+> [!NOTE]
+> The contents are in German because it's a German band - but the code is primarily written in English.
